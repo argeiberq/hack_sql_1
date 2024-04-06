@@ -24,7 +24,7 @@
 
 
 ## 🏆 H-1
-![](https://github.com/SocialOplesk/hack_sql_1/blob/main/assets/register_database.png)
+![](https://github.com/argeiberq/hack_sql_1/blob/main/captures/H-1.png)
 
 ![](https://github.com/SocialOplesk/hack_sql_1/blob/main/gifs/hack_sql_1_run_gif.gif)
 ```sh
@@ -54,6 +54,7 @@ create table users(
 
 
 ## 🏆 H-2
+![](https://github.com/argeiberq/hack_sql_1/blob/main/captures/H-2.png)
 ![](https://github.com/SocialOplesk/hack_sql_1/blob/main/gifs/hack_sql_1_install_gif.gif)
 
 ```sh
@@ -87,6 +88,7 @@ crud register database
 
 ## 🏆 H-3
 ![](https://github.com/SocialOplesk/hack_sql_1/blob/main/assets/contact_database.png)
+![](https://github.com/argeiberq/hack_sql_1/blob/main/captures/H-3.png)
 ```sh
 design contact database
 
@@ -98,6 +100,8 @@ tables:
 
 
 ## 🏆 H-4
+![](https://github.com/argeiberq/hack_sql_1/blob/main/captures/H-4.1.png)
+![](https://github.com/argeiberq/hack_sql_1/blob/main/captures/H-4.2.png)
 ```sh
 crud contact database
 
@@ -116,6 +120,7 @@ crud contact database
 
 ## 🏆 H-5
 ![](https://github.com/SocialOplesk/hack_sql_1/blob/main/assets/ecommerce_database.png)
+![](https://github.com/argeiberq/hack_sql_1/blob/main/captures/H-5.png)
 ```sh
 design ecommerce database
 
@@ -136,6 +141,7 @@ tables:
 
 
 ## 🏆 H-6
+![](https://github.com/argeiberq/hack_sql_1/blob/main/captures/H-6.png)
 ```sh
 crud ecommerce database
 
